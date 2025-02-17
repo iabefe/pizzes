@@ -30,4 +30,4 @@
 	<a href="pizza.html">Retorna al formulari de selecció d’ingredients</a>
 	</body>
 </html>
-Ian Berenguer
+ian Berenguer
